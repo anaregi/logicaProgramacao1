@@ -1,0 +1,13 @@
+C:\Users\ana.araujo\Downloads\cmder\repo\LogicaProgramacao1\LogicaProgramacao1\bin\Debug\netcoreapp3.1\LogicaProgramacao1.exe
+C:\Users\ana.araujo\Downloads\cmder\repo\LogicaProgramacao1\LogicaProgramacao1\bin\Debug\netcoreapp3.1\LogicaProgramacao1.deps.json
+C:\Users\ana.araujo\Downloads\cmder\repo\LogicaProgramacao1\LogicaProgramacao1\bin\Debug\netcoreapp3.1\LogicaProgramacao1.runtimeconfig.json
+C:\Users\ana.araujo\Downloads\cmder\repo\LogicaProgramacao1\LogicaProgramacao1\bin\Debug\netcoreapp3.1\LogicaProgramacao1.runtimeconfig.dev.json
+C:\Users\ana.araujo\Downloads\cmder\repo\LogicaProgramacao1\LogicaProgramacao1\bin\Debug\netcoreapp3.1\LogicaProgramacao1.dll
+C:\Users\ana.araujo\Downloads\cmder\repo\LogicaProgramacao1\LogicaProgramacao1\bin\Debug\netcoreapp3.1\LogicaProgramacao1.pdb
+C:\Users\ana.araujo\Downloads\cmder\repo\LogicaProgramacao1\LogicaProgramacao1\obj\Debug\netcoreapp3.1\LogicaProgramacao1.csprojAssemblyReference.cache
+C:\Users\ana.araujo\Downloads\cmder\repo\LogicaProgramacao1\LogicaProgramacao1\obj\Debug\netcoreapp3.1\LogicaProgramacao1.AssemblyInfoInputs.cache
+C:\Users\ana.araujo\Downloads\cmder\repo\LogicaProgramacao1\LogicaProgramacao1\obj\Debug\netcoreapp3.1\LogicaProgramacao1.AssemblyInfo.cs
+C:\Users\ana.araujo\Downloads\cmder\repo\LogicaProgramacao1\LogicaProgramacao1\obj\Debug\netcoreapp3.1\LogicaProgramacao1.csproj.CoreCompileInputs.cache
+C:\Users\ana.araujo\Downloads\cmder\repo\LogicaProgramacao1\LogicaProgramacao1\obj\Debug\netcoreapp3.1\LogicaProgramacao1.dll
+C:\Users\ana.araujo\Downloads\cmder\repo\LogicaProgramacao1\LogicaProgramacao1\obj\Debug\netcoreapp3.1\LogicaProgramacao1.pdb
+C:\Users\ana.araujo\Downloads\cmder\repo\LogicaProgramacao1\LogicaProgramacao1\obj\Debug\netcoreapp3.1\LogicaProgramacao1.genruntimeconfig.cache
